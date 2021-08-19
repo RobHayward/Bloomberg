@@ -1,0 +1,25 @@
+# Bloomberg Market Concepts (BMC)
+
+Bloomberg provide a video introduction to the terminal that is also a certification. You can access the BMC from the [Bloomberg for Education](https://portal.bloombergforeducation.com) website. 
+
+![](./Figures/Bloomberg_Terminal.jpg)
+
+
+* **Terminal basics** provides an introduction to using the terminal, analysing the equity and bond markets as well as building an equity portfolio.  
+
+There are four modules that are required for certification: 
+
+1. Economic indicators
+2. Currencies 
+3. Fixed income
+4. Equities
+
+There are also three additional modules that can be taken: 
+
+1. Commodities
+2. Equity options
+3. Portfolio management
+
+There are a series of videos and questions that guide you through the use of the terminal. You do not need to be at the terminal to take these modules. 
+
+An overview of the certificated modules is [provied here](https://data.bloomberglp.com/professional/sites/10/BMC-Professor-Brochure.pdf)

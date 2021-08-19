@@ -1,5 +1,5 @@
 --- 
-title: "Macroeconomics"
+title: "Bloomberg"
 author: "Rob Hayward"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -8,23 +8,13 @@ documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-github-repo: robhayward/macroeconomics
-description: "These are our macroeconomic notes"
+github-repo: robhayward/bloomberg
+description: "This is an introduction to Bloomberg"
 ---
 
 # Introduction {-}
 
-These are our lecture notes for the [@carlinsoskice] textbook.  The notes are no substitute for the text which is available in the University of Brighton library.   The notes summarise the chapters and add some exercises and links to activities that should assist your understanding of these key macroeconomic topics.  
+This is an introduction to using Bloomberg.  It is a work in progress. Please let me know if you seen any typos, errors or omissions. You can also contribute to this project on github.
 
-There are three broad sections:  
-
-1.  **The New Keynesian Model** that brings together aggregate demand, supply and the central bank policy response. 
-
-2. **The financial system and the global financial crisis** that discusses frictions and the importance of institutions and history for macroeconomics. 
-
-3. **The open economy and other extensions**.   
-
-In extending the ideas of [@carlinsoskice] we aim to project a greater emphasis on **responsible enterprise** in line with our mission statement at the University of Brighton Business school. 
-
-Once again, we recommend that you buy the [@carlinsoskice] text or get a copy from the University of Brighton library to get a much more detailed overview of these key macroeconomic topics. 
+There is an overview of the history of the Bloomberg terminal on [Wikipedia](https://en.wikipedia.org/wiki/Bloomberg_Terminal)
 ``

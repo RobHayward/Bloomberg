@@ -1,0 +1,27 @@
+# Foreign Exchange 
+
+## Currency market mechanics
+ECTR: international trade flows. Look at the way that trade flows change over time. The emergence of China as a major exporter. Look at ``FX24`` to get the overview of exchange rates around the globe. ``PEG`` will provide a list of pegged currencies. ``BI ECONG`` will provide the Economic Research Dashboard with international reserves. ``FXTF`` is the FX Ticker finder. ``FXC`` is the currency market matrix. 
+
+
+## Currency valuation
+``USTW$`` will give the US trade weighted index.  It is also possible to use ``WCRS MAC`` to get the latest Big Mac index as an indicator of *the law of one price*. 
+
+There are three major factors that may change exchange rates: 
+
+* Surprise changes in interest rates
+* Surprise changes in inflation 
+* Surprise changs in trade
+
+## Central banks
+
+``IFMO`` is the Inflation Monitor. ``FTDR`` is the Federal Reserve target interest rate. This will talk about the Volker. Deflation is also a viscious cycle.  There is a discussion of Japanese deflation and Abenomics. 
+
+
+## Currency risk
+
+Changes in exchange rates have major effects on investors and firms. What is the direction of causality?  Historic volatility can give an impression of risk. ``FXFM`` provides an expectation of exchange rate movements based on past performance.  It is possible to assess the probability that exchanges rates will be at particular levels. ``FXFC`` will provide currency forecasts. 
+
+``FRD`` is the forward exchange rate calculator. 
+
+``XAU F9 GP`` will call up a chart of gold. 

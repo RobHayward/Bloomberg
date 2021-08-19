@@ -1,0 +1,68 @@
+# Getting around
+  
+**Bloomberg Market Concepts (BMC)** has a module called **Getting Started on the Terminal** that will provide an introduction to getting around the Bloomberg system. You can take this self-paced module by logging onto Bloomberg for Education and watching the video introduction [here](https://portal.bloombergforeducation.com/courses/29). This will take you through the system and will show you how you can custimise pages for your own use. 
+
+Alternatively, just use your Bloomberg username and password to log onto the terminal and take a look around. Don't be disturbed by the Bloomberg Keyboard (if you have one).  
+
+![](./Figures/keyboard.jpeg)
+It works the same as a normal keyboard.  The most useful part are the numbered **yellow** function keys that give you quick access to types of securities. These are: 
+
+1. F1 HELP
+2. F2: GOVT (Government bonds)
+3. F3: CORP (Corporate bonds)
+4. F4: MTGE (Mortgage bonds)
+5. F5: M-MKT (Money market instruments)
+6. F6: MUNI (Municipal bonds)
+7. F7: PFD (Preferred securities)
+8. F8: EQUITY (Equity)
+9. F9: CMDT (Commodity)
+10. F10 INDEX (equity and other indices)
+11. F11 CRNCY (Foreign exchange)
+12. F12 CLIENT (Portfolio and risk management)
+
+**Green** keys as the action keys such as help, go, forward and backwards.  **Blue** is the panel key that allows you to switch between the four windows that are the Bloomberg default.  **Red** keys allow you to log off. 
+
+Once you have logged into the machine you will be confronted by a four panels and probably a number of other windows.  These will include: the four regular panels, messages, previously saved windows.  The layout is customisable and will be saved for your username and password. 
+
+There are three basic methods of navigating the Bloomberg terminal.  In order of ease of use:
+
+* The command line search
+* The menu system
+* Function-security pairs
+
+It is best to start with the first and gradually incorporate the others as you get more familiar with the system. 
+
+## Command line
+For the command line it is best to just type what you want to see into the command line at the top.  A number of options will appear.  You can click on the option that is of interest to you and the information will appear. 
+
+## The menu system
+You can also drill down through the menu system.  At each level you will see a set of numbered options.  These will take you from broad concepts to more detailed and specific information.  
+
+## Function-security pairs
+As you get more familiar with the system you will remember some of the function mnemonic. This is a short code that will display specific information. You will see these short codes when you search at the command line or run through the message system.  It is a good idea to write some of these down so that you can use them access information more swiftly in the future. 
+
+Some function codes stand alone such as: 
+
+* **WEI**: which will give you the World Equity Indices and an overview of the performance of major stock markets over the last couple of days
+* **WBI**: World Bond indices has an overview of bond markets
+* **
+
+Some functions are **security specific**.  This means that they will only run with a specified security.  For example, **DES** will provide a description but it cannot run on its own without a security to describe.  To get a description of the Apple corporation you would have to call the company and then use DES to get a description.  You would have to type 
+
+```
+AAPL F9 DES
+```
+
+in the command line.  AAPL is the code for Apple, F9 means that you are interesed in equity rather than any bonds that have been issued by the company and DES gives the description of the firm. 
+
+You will find a list of functions in the *List of functions* chapter. 
+
+## Different routes
+There are different routes to get the same information.  To get the description of the Apple company you can: 
+
+* Search for Apply and description in the command line.  Click the link that says Apple description.
+
+* Start at the home page with the little house icon and then drill down through the menus to equity (F9) and description (DES)
+
+* Run AAPL F9 DES
+

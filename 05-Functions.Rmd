@@ -1,0 +1,46 @@
+# This is a list of functions
+
+* AGGD: Major creditors.  Find out institutions that have bought bonds. 
+* ALLQ DEMO:  Bond trading demo. 
+* ANR: Analyst Recommendations
+* BI: Bloomberg Intelligence
+* BICO: Bloomberg Intelligence Company Primer
+* BT:Backtesting and Optimisation
+* BTST: Basic Backtesting
+* BVAL: Bloomberg security valuation.
+* CN: Company News
+* COMP: Comparative Returns
+* COUN: Country guide. An overview of the financial position of the country. 
+* CP: Company Profile
+* CRPR: Credit rating profile
+* DAPI: Overview of Desktop API
+* DES: Security Description
+* DRSK: Bloomberg rating scale.  Bloomberg priority model. 
+* ECO: Economic Calendars
+* ECOS: Economic Estimates
+* ECOD: Economic Release Details
+* EQRV: Equity Relative Valuation
+* EQS: Stock Streening
+* FA: Financial Analysis
+* FIW: Fixed income worksheet. Bond analysis. 
+* GMM: Global Macro Movers.  Biggest moves of the day. 
+* GP: Price Chart
+* GC: Graph Curves
+* GCT: Graph Curve Tenors
+* GIY: Intraday Yield Chart
+* IP: Investor Profile
+* KI: Key Insights
+* OPIN: Bloomberg Opinion
+* SPLC: Supply chain information
+* TOP: Top News
+* TECH: Technical Analysis
+* PRTU: Portfolio Administration
+* PORT: Analyse a Portfolio
+* QUIC: Bloomberg Quick Takes
+* RICH: Bloomberg billionaire index
+* RV: Relative Value
+* WB: World Bonds
+* WATC: Watchlist Analytics
+* XLTP: Excel Template Library
+* YAS: Yield snd spread analytics.  Price and spreads.  
+

@@ -1,0 +1,47 @@
+# Disaster Recovery
+*Disaster Recovery* is temporary response to the Covid-19 lockdown.  It allows students and Faculty to access the Bloomberg terminal remotely.  Disaster Recovery is expected to be removed when the lockdown ends.  After that point everyone will have to access Bloomberg through a physical machine. These will be located in the Bloomberg lab. 
+
+To access Disaster Recovery you will need to get a Bloomberg education account and secure a Bloomberg terminal username and password.  Details about how you do that are below. 
+
+![](./Figures/bbterminal.jpeg)
+
+These are the instructions: 
+
+There are two steps to getting a username and password for Bloomberg. 
+ 
+This video gives an overview of the whole process. 
+
+
+```{r, eval=knitr::is_html_output(excludes="epub"), results='asis', echo = F}              
+cat('<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/454454320" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<p>Bloomberg&rsquo;s Disaster Recovery (DR) service is designed to provide temporary remote access to Bloomberg Terminal subscriptions, as part of an academic institution&rsquo;s overall business continuity plan. This video highlights how academic institutions with DR service can leverage the Bloomberg for Education website to create Bloomberg Terminal logins remotely.</p>')
+```
+
+	
+## Sign up to Bloomberg for Education
+ 
+You need to go to
+
+* [Bloomberg for education portal](https://portal.bloombergforeducation.com/)
+
+
+* click "sign up".   Sign as a learner.   Sign up and verify the email address (this must be university email).
+
+* You then go to the "Terminal Access" tab from Bloomberg  for Education. 
+
+You will then be authorised (notify me to do this if necessary  - you will receive an email when this is complete) and we can go to the next step - creating the Bloomberg log in. 
+
+## Create the Bloomberg log in
+
+* Use the "Terminal" Access tab from Bloomberg for Education, fill out the form and this will create a username for Bloomberg access. You create the password.  This will be verified by email or phone. 
+
+* You can then use that ID and password to log into the terminal.  Using this link.  [bba.bloomberg.net](https://bba.bloomberg.net)
+
+* Note:  we have 12 access points that can only be used by one person at a time.  You will be told if there are none available.   We will eventually create a schedule so that sessions can be reserved and classes can be blocked out. 
+ 
+* To log in you use an appropriate browser or you download a small citrix app that can make the connection.  
+ 
+* There is additional information about access here  [Bloomberg help](https://bba.bloomberg.net/help)
+
+This includes the link to download citrix (under 'Requirements')
+

@@ -1,0 +1,3 @@
+# Build and manage a portfolio
+
+Here you will look at the worth of billionaires (RICH) or institutions (IP).  You will create a portfolio (PORT).  You can backdate the portfolio to assess performance. Securities can be transfered from one screen to another. This can be used to look at characteristics, VaR, scenarios, tracking error and risk. There are Value at Risk scenarios to be run. 

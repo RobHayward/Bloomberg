@@ -1,0 +1,26 @@
+# Exploring Equity Case
+
+This is a case that will allow you to use a number of functions that will select companies with particular characteristics.  It will help you to understand the use of factors in equity allocations.  In this case you will learn: 
+
+* The use of the **Ideas Generation** menu.  
+* The use of **EQS** Equity Screening. 
+* Saving searches
+* Getting a description of a company, including sector and other information that is presented in a standard way that can be compared to other companies.
+* Adding information to charts and normalising data for comparison
+* Identifying divided days
+* Adding news and other information to graphs
+* Accessing Bloomberg analysis and information about firms
+* Looking at company financial data
+* Looking at the company financial statements
+* The use of **Key Insights (KI)** where Bloomberg uses Artificial Intelligence to identify the most important aspects of a firm's financial information. Green, red or neutral icons are presented with the information to suggest positive, negative or neutral information for the firm. 
+* Uncovering the opinion of other investors
+* Comparing similar companies
+* Use **Equity Relative Valuation (EQRV)** to see how valuation metrics have changed over time
+* Assess company valuation based on blended forward multiples perspective
+* Use technical analysis tools
+* Run backtesting strategies and evaluate technical performance relative to a *buy-and-hold strategy*.
+* Use excel templates to look at information about a firm
+* Download data into excel
+* Access a tutorial about the Bloomberg excel API
+
+

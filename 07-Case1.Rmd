@@ -1,0 +1,18 @@
+# Italian case study
+
+The TerminalBasics module on the Bloomberg Market Concepts will take you through a case study about the European bond crisis. The tools and techniques that are used here can be applied to any financial crisis to get an understanding of the factors that are affecting financial events. The case study takes you through: 
+
+* the use of historic yield curves and their spreads to benchmark curves 
+* finding news stories for specific days and events
+* **Quick Takes** give a review of recent events
+* Use this with the tools for debt sustainability
+* looking for importance economic data releases
+* identifying the importance or surprise (number of standard deviations relative to expectations) of economic data
+* Finding **generic** government bonds rather than specific bonds that will change in maturity over time
+* Charting intraday yield performance
+* Finding outstanding debt 
+* Looking at government bond auctions
+* Looking at Bloomberg detail analysis of economic and financial events
+* An overview of a country's economic performance
+
+
